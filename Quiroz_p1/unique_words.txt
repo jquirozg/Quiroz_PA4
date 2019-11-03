@@ -1,0 +1,1 @@
+[cloud, hi, apple, cat, hello]
